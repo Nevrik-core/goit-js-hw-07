@@ -21,9 +21,9 @@ gallery.insertAdjacentHTML('afterbegin', galleryMarkup);
 
 
 
+
+
 gallery.addEventListener('click', onGalleryItemClick);
-
-
 
 
 function onGalleryItemClick(e) {
